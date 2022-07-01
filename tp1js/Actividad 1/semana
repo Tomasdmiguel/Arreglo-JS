@@ -1,0 +1,3 @@
+console.log("ej1");
+let semana=("lunes","martes","miercoles","jueves","viernes","sabado","domingo")
+console.log(semana)
